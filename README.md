@@ -4,7 +4,7 @@ TopQA is a novel method aimed to tackle a crucial step in the protein prediction
 
 # Citation
 --------------------------------------------------------------------------------------
-John Smith, Matthew Conover, Jesse Eickholt, Dong Si, Miao Sun, Renzhi Cao. "TopQA: A Topological Representation for Single-Model Protein Quality Assessment with Machine Learning", submitted, 2018.
+Smith, John, Matthew Conover, Natalie Stephenson, Jesse Eickholt, Dong Si, Miao Sun, and Renzhi Cao. "TopQA: a topological representation for single-model protein quality assessment with machine learning." International Journal of Computational Biology and Drug Design 13, no. 1 (2020): 144-153.
 
 # Test Environment
 --------------------------------------------------------------------------------------
